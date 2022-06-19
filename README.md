@@ -6,9 +6,15 @@ Simple random password generator that creates password between 8 and 128 charact
 
 *Example of functionality is included below:*
 ![](images/image1.png)
+
 ![](images/image2.png)
+
 ![](images/image3.png)
+
 ![](images/image4.png)
+
 ![](images/image5.png)
+
 ![](images/image6.png)
+
 ![](images/image7.png)
