@@ -5,10 +5,10 @@ Simple random password generator that creates password between 8 and 128 charact
 **URL**: https://davidkd5.github.io/password_generator/
 
 *Example of functionality is included below:*
-![]("image1.png")
-![]("image2.png")
-![]("image3.png")
-![]("image4.png")
-![]("image5.png")
-![]("image6.png")
-![]("image7.png")
+![](image1.png)
+![](image2.png)
+![](image3.png)
+![](image4.png)
+![](image5.png)
+![](image6.png)
+![](image7.png)
